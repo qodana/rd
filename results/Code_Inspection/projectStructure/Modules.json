@@ -1,0 +1,2565 @@
+{
+  "modules": [
+    {
+      "name": "rider.module",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/.run",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Rd.sln",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/RdFramework.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Test.Lifetimes.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Test.RdFramework.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Test.Cross.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Reflection.App/Test.Reflection.App.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/Scripts.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/RdFramework.Reflection.csproj",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Annotations/CallerArgumentExpressionAttribute.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Annotations/CodeAnnotations.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Annotations/InterpolatedStringHandlerArgumentAttribute.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Annotations/InterpolatedStringHandlerAttribute.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Annotations/NullableAttributes.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Synchronized/SynchronizedDictionary.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Synchronized/SynchronizedList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Synchronized/SynchronizedSet.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/AddRemove.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/AddUpdateRemove.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/DefaultScheduler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/IReadonlyProperty.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/IScheduler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ISignal.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ISource.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/IViewableList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/IViewableMap.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/IViewableProperty.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/IViewableSet.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ListEvent.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/MapEvent.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ModificationCookieViewableSet.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ReactiveEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/SchedulerEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/SchedulerWrapper.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/SetEvent.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/Signal.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/SingleThreadScheduler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/SynchronousScheduler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/TaskSchedulerWrapper.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ViewableList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ViewableMap.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ViewableProperty.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/ViewableSet.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/Viewable/WriteOnceProperty.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/CollectionEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/CompactList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/CopyOnWriteList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/DictionaryEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/EmptyArray.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/EmptyEnumerator.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/JetKeyValuePair.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/JetPriorityQueue.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/ReferenceEqualityComparer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Collections/SingletonEnumerator.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Core/Maybe.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Core/Nothing.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Core/Result.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Core/Unit.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Internal/LogBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Internal/NullLog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Internal/SingletonLogFactory.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Internal/TextWriterLog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetConditionalInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetDefaultInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetLogErrorInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetLogInfoInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetLogLevelInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetLogTraceInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetLogVerboseInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetLogWarnInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/StringInterpolation/JetNotNullConditionalInterpolatedStringHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Assertion.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/FirstChanceExceptionInterceptor.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/ILog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/ILogFactory.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Log.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/LogEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/LoggingLevel.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/LogLog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/LogWithLevel.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/Mode.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/ProcessWatchdog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Diagnostics/RName.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Interop/MethodImplAdvancedOptions.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Interop/Windows.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/ITerminationHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/Lifetime.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/LifetimeCanceledException.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/Lifetimed.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/LifetimeDefinition.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/LifetimedList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/OuterLifetime.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/SequentialLifetimes.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Lifetimes/ValueLifetimed.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Properties/AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Serialization/NativeMemoryPool.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Serialization/UnsafeReader.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Serialization/UnsafeWriter.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/Actor.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/ByteBufferAsyncProcessor.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/Channel.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/ExceptionEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/ProactiveLazy.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/ScopedAsyncLocal.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/SpinWaitEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/SpinWaitLock.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/TaskEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Threading/ThreadEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/BitHacks.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/BitSlice.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/CastTo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/EmptyAction.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/LocalStopwatch.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/Memory.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/NullableEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/ReflectionUtil.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/RuntimeInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/SingleThreadObjectPool.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/Statics.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/Util/Types.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/PackageIcon.png",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/IPerContextMap.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/IRdBindable.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/IRdReactive.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/ISingleContextHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/ProtocolNotBoundException.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/RdBindableBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/RdDelegateBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/RdExtBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Base/RdReactiveBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/BufferWindow.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/ExtCreatedUtils.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/HeavySingleContextHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/Identities.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/InternRoot.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/LightSingleContextHandler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/MessageBroker.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/Protocol.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/ProtocolContexts.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdList.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdMap.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdPerContextMap.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdProperty.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdSecureString.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdSet.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdSignal.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/RdSimpleDispatcher.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/SendContext.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/Serializers.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/SerializersEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/SocketWire.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/StealingScheduler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Impl/WebSocketWire.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Properties/AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/Interfaces.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RdCall.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RdFault.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RdTask.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RdTaskEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RdTaskResult.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RdTaskStatus.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/RpcTimeouts.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Tasks/WiredRdTask.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Impl/Intrinsics/RdAssertion.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Impl/Intrinsics/RdChangeOrigin.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Impl/Intrinsics/RdTextBufferChange.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Impl/Intrinsics/RdTextBufferState.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Impl/RdTextBuffer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Intrinsics/RdTextChange.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Intrinsics/RdTextChangeSerializer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Intrinsics/TextBufferVersion.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/Intrinsics/TextBufferVersionSerializer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/ITextBuffer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Text/RdTextChangeEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Util/ConcurrentSet.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Util/PrettyPrinter.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/Util/SingleLinePrettyPrinter.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/CtxReadDelegate.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/ExtCreationInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/IIdentities.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/IInternRoot.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/IProtocol.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/ISerializers.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/ITypesRegistrar.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/IWire.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/RdContext.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/RdId.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/SerializationCtx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/WireEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/PackageIcon.png",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Synchronized/TestSynchronizedDictionary.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Viewable/DefaultSchedulerTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Viewable/ReactiveExTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Viewable/SchedulerWrapperTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Viewable/SignalTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Viewable/SingleThreadSchedulerTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/Viewable/WriteOncePropertyTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/BlockingPriorityQueueTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/CollectionTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/DictionaryExTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Collections/PriorityQueueTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Core/TestResult.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Diagnostics/InterpolatedStringHandlerTests.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Diagnostics/TextWriterLogTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Lifetimes/LifetimedListTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Lifetimes/LifetimeTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Lifetimes/SequentialLifetimesTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Serialization/NativeMemoryPoolTests.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Serialization/UnsafeMarshallersTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Threading/ActorTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Threading/ByteBufferAsyncProcessorTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Threading/ChannelTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Threading/ProactiveLazyTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Utils/BitSliceTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Utils/CastToTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Utils/LocalStopwatchTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Disposable.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/GeneralEx.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/LifetimesTestBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/Linearization.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/ReflectionExtensions.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/SetupFixture.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/TestLogger.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Components/TestWire.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Contexts/ContextWithExtTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Contexts/DelayedContextWithExtTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Contexts/RdContextBasicTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Contexts/RdContextEarlyDeliveryTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Contexts/RdPerContextMapTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Interning/InterningExtTestModel.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Interning/InterningTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Interning/InterningTestModel.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Interning/InterningTestPropertyWrapper.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/CornerCase/CantHavePrivateFieldError.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/CornerCase/CircularDependencyInModelError.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/CornerCase/EmptyOK.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/CornerCase/NoBaseType.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/CornerCase/NotRdModelData.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/Animals.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/CustomReactive.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/FieldsNullableOk.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/ModelCalls.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/ModelSample.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/PropertiesNotNullOk.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Example/RootModel.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Generated/RefExt.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/data/Generated/RefRoot.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/CustomGenericPrimitiveTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/PolymorphicScalarIntrinsicTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/PolymorphicScalarTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorAsyncCallsTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorAsyncNestedCallsTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorCancellationTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorCornerCasesTests.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorCustomSignalTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorInheritanceNegativeTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorInheritanceTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorModelTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorPropertiesTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorScalarInterfaceSerializerTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorSimpleTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ProxyGeneratorTestBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/RdReflectionTestBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ScalarIntrinsicTests.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/ScalarTests.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/SerializersTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/TestGeneratedModelsInReflection.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/TestReflectionSerialization.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Reflection/TestVerification.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Util/ReactiveFactory.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Mocks.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdFrameworkTestBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdIdHierarchyGuardTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdListTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdMapTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdPropertyTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdSetTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdSignalTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/RdTaskTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/SerializersTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/SetupFixture.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/SocketProxy.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/SocketProxyTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/SocketWireTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/TaskHack.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/TestStealingWorker.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/TestThrowingLogFactory.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/UnsafeWriterTest.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/ValueTuples.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/Test.RdFramework.csproj.DotSettings",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Base/CrossTest_CsClient_Base.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Base/CrossTest_CsServer_Base.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Base/CrossTest_Cs_Base.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Cases/Client/CrossTest_AllEntities_CsClient.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Cases/Client/CrossTest_BigBuffer_CsClient.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Cases/Client/CrossTest_RdCall_CsClient.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Cases/Server/CrossTest_AllEntities_CsServer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Static/CrossTestAllEntities.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Util/FileSystem.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/Util/Logging.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/TestLogger.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/obj/SyncModel/ExtToClazz.Generated.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/obj/SyncModel/SyncModelExt.Generated.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/obj/SyncModel/SyncModelRoot.Generated.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/TestRunner.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Reflection.App/Common/Util.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Reflection.App/Program.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Reflection.App/README.md",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/rd_autoupdate/Directory.Build.targets",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/rd_autoupdate/README.md",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/LineEndingUtil.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/Program.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/Properties/AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../THIRD-PARTY-NOTICES.TXT",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/third-party-libraries.json",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/BindableChildrenUtil.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/CollectionSerializers.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/IIntrinsicMarshaller.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/Intrinsic.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/IProxyGenerator.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ITypesCatalog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ProxyGenerator.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ProxyGeneratorCache.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ProxyGeneratorUtil.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/RdExtReflectionBindableBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/RdReflectionBindableBase.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ReflectionRdActivator.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ReflectionSerializersFacade.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ReflectionSerializersFactory.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ReflectionSerializerVerifier.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/ScalarSerializer.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/SerializerReflectionUtil.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/SimpleTypesCatalog.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/SwitchingScheduler.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/TypesRegistrar.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/PackageIcon.png",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Directory.Build.props",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/obj/Debug/net461/Lifetimes.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/obj/Debug/net461/Lifetimes.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/obj/Debug/net35/Lifetimes.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/obj/Debug/net35/Lifetimes.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/obj/Debug/netstandard2.0/Lifetimes.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Lifetimes/obj/Debug/netstandard2.0/Lifetimes.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/obj/Debug/net461/RdFramework.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/obj/Debug/net461/RdFramework.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/obj/Debug/net35/RdFramework.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/obj/Debug/net35/RdFramework.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/obj/Debug/netstandard2.0/RdFramework.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework/obj/Debug/netstandard2.0/RdFramework.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/native/x86/KernelTraceControl.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/native/x86/KernelTraceControl.Win61.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/native/x86/msdia140.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/native/amd64/KernelTraceControl.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/native/amd64/msdia140.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/net461/Test.Lifetimes.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/net461/Test.Lifetimes.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/netcoreapp3.1/Test.Lifetimes.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/netcoreapp3.1/Test.Lifetimes.Program.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/netcoreapp3.1/Test.Lifetimes.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/net35/Test.Lifetimes.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Lifetimes/obj/Debug/net35/Test.Lifetimes.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/NUnit3.TestAdapter.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/NUnit3.TestAdapter.pdb",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/nunit.engine.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/nunit.engine.api.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/netstandard1.6/TraceReloggerLib.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/netstandard1.6/Dia2Lib.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/net45/OSExtensions.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/obj/Debug/netcoreapp3.1/Test.RdFramework.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/obj/Debug/netcoreapp3.1/Test.RdFramework.Program.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/obj/Debug/netcoreapp3.1/Test.RdFramework.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/obj/Debug/net461/Test.RdFramework.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.RdFramework/obj/Debug/net461/Test.RdFramework.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/NUnit3.TestAdapter.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/NUnit3.TestAdapter.pdb",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/nunit.engine.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/../../cache/nuget/nunit3testadapter/3.11.0/build/net35/nunit.engine.api.dll",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/obj/CrossTests/netcoreapp3.1/Test.Cross.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Cross/obj/CrossTests/netcoreapp3.1/Test.Cross.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Reflection.App/obj/Debug/net461/Test.Reflection.App.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Test.Reflection.App/obj/Debug/net461/Test.Reflection.App.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/obj/Debug/netcoreapp3.1/Scripts.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/Scripts/obj/Debug/netcoreapp3.1/Scripts.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/obj/Debug/net461/RdFramework.Reflection.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/obj/Debug/net461/RdFramework.Reflection.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/obj/Debug/net35/RdFramework.Reflection.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/obj/Debug/net35/RdFramework.Reflection.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/obj/Debug/netstandard2.0/RdFramework.Reflection.AssemblyInfo.cs",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/RdFramework.Reflection/obj/Debug/netstandard2.0/RdFramework.Reflection.GeneratedMSBuildEditorConfig.editorconfig",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    }
+  ]
+}
