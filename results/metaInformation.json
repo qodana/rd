@@ -1,19 +1,19 @@
 {
-  "total": 7013,
+  "total": 0,
   "tools inspection": {
-    "Code Inspection": 7013
+    "Code Inspection": 0
   },
   "linter": "QDNET",
   "attributes": {
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/qodana/rd.git",
-        "revisionId": "54abdff8529f994ac624c9af3fb6bdbb3b66c9e4",
-        "branch": "refs/heads/master"
+        "revisionId": "cacb0c36e6566874689a8b8546eaf6ba9cff11d8",
+        "branch": "azure-pipelines"
       }
     },
     "deviceId": "200820300000000-281f-32c2-5988-7404f8f148dd",
-    "jobUrl": "https://github.com/qodana/rd/actions/runs/5525121629",
+    "jobUrl": "https://github.com/qodana/rd/actions/runs/5551854486",
     "repoUrl": "https://github.com/qodana/rd.git"
   }
 }
