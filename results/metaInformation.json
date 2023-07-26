@@ -8,12 +8,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/qodana/rd.git",
-        "revisionId": "cacb0c36e6566874689a8b8546eaf6ba9cff11d8",
+        "revisionId": "259a6ae96aaf01bcabbc3b63c6d51c456d8e06d2",
         "branch": "azure-pipelines"
       }
     },
     "deviceId": "200820300000000-281f-32c2-5988-7404f8f148dd",
-    "jobUrl": "https://github.com/qodana/rd/actions/runs/5551854486",
+    "jobUrl": "https://github.com/qodana/rd/actions/runs/5667361149",
     "repoUrl": "https://github.com/qodana/rd.git"
   }
 }

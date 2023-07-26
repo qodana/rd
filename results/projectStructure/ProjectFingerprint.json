@@ -2,11 +2,11 @@
   "languages": [
     "SolutionFile",
     "MSBuild",
-    "C#",
-    "EditorConfig",
-    "Plain text",
     "JSON",
+    "C#",
+    "textmate",
     "XML",
-    "textmate"
+    "EditorConfig",
+    "Plain text"
   ]
 }

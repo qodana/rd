@@ -274,19 +274,6 @@ Project [Name:Lifetimes, GUID:09b0e8fb-dbc5-48c0-8148-6d4ae01ef473]
                 ProjectFileImpl(Path : Lifetimes.AssemblyInfo.cs)[Hidden COMPILE ]
                 ProjectFileImpl(Path : Lifetimes.GeneratedMSBuildEditorConfig.editorconfig)[Hidden EDITORCONFIGFILES ]
     ProjectFileImpl(Path : third-party-libraries.json (..\third-party-libraries.json))[[.NETFramework,Version=v3.5: None] [.NETFramework,Version=v4.6.1: None] [.NETStandard,Version=v2.0: None] ]
-  Target framework: .NETFramework,Version=v4.6.1
-    Referenced projects:
-    Referenced assemblies:
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/mscorlib.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Core.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Data.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Drawing.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.IO.Compression.FileSystem.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Numerics.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Runtime.Serialization.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-      System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.Linq.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
   Target framework: .NETFramework,Version=v3.5
     Referenced projects:
     Referenced assemblies:
@@ -300,6 +287,19 @@ Project [Name:Lifetimes, GUID:09b0e8fb-dbc5-48c0-8148-6d4ae01ef473]
       System.Threading, Version=1.0.2856.102, Culture=neutral, PublicKeyToken=31bf3856ad364e35 (/data/cache/nuget/taskparallellibrary/1.0.2856/lib/Net35/System.Threading.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
       System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
       System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.Linq.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+  Target framework: .NETFramework,Version=v4.6.1
+    Referenced projects:
+    Referenced assemblies:
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/mscorlib.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Core.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Data.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Drawing.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.IO.Compression.FileSystem.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Numerics.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Runtime.Serialization.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+      System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.Linq.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
   Target framework: .NETStandard,Version=v2.0
     Referenced projects:
     Referenced assemblies:
@@ -1719,10 +1719,10 @@ Project [Name:Tests, GUID:6ee90c64-2cf1-4f95-8011-744d6e3fa819]
             ProjectFileImpl(Path : SequentialLifetimesTest.cs)[[.NETCoreApp,Version=v3.1: Compile] [.NETFramework,Version=v3.5: Compile] [.NETFramework,Version=v4.6.1: Compile] ]
         ProjectFileImpl(Path : LifetimesTestBase.cs)[[.NETCoreApp,Version=v3.1: Compile] [.NETFramework,Version=v3.5: Compile] [.NETFramework,Version=v4.6.1: Compile] ]
         ProjectFileImpl(Path : Linearization.cs)[[.NETCoreApp,Version=v3.1: Compile] [.NETFramework,Version=v3.5: Compile] [.NETFramework,Version=v4.6.1: Compile] ]
-        ProjectFileImpl(Path : NUnit3.TestAdapter.dll (..\..\..\cache\nuget\nunit3testadapter\3.11.0\build\net35\NUnit3.TestAdapter.dll))[Hidden [.NETFramework,Version=v3.5: Content] [.NETFramework,Version=v4.6.1: Content] ]
         ProjectFileImpl(Path : NUnit3.TestAdapter.dll (..\..\..\cache\nuget\nunit3testadapter\3.11.0\build\netcoreapp1.0\NUnit3.TestAdapter.dll))[Hidden CONTENT ]
-        ProjectFileImpl(Path : NUnit3.TestAdapter.pdb (..\..\..\cache\nuget\nunit3testadapter\3.11.0\build\net35\NUnit3.TestAdapter.pdb))[Hidden [.NETFramework,Version=v3.5: Content] [.NETFramework,Version=v4.6.1: Content] ]
+        ProjectFileImpl(Path : NUnit3.TestAdapter.dll (..\..\..\cache\nuget\nunit3testadapter\3.11.0\build\net35\NUnit3.TestAdapter.dll))[Hidden [.NETFramework,Version=v3.5: Content] [.NETFramework,Version=v4.6.1: Content] ]
         ProjectFileImpl(Path : NUnit3.TestAdapter.pdb (..\..\..\cache\nuget\nunit3testadapter\3.11.0\build\netcoreapp1.0\NUnit3.TestAdapter.pdb))[Hidden CONTENT ]
+        ProjectFileImpl(Path : NUnit3.TestAdapter.pdb (..\..\..\cache\nuget\nunit3testadapter\3.11.0\build\net35\NUnit3.TestAdapter.pdb))[Hidden [.NETFramework,Version=v3.5: Content] [.NETFramework,Version=v4.6.1: Content] ]
         ProjectFileImpl(Path : OSExtensions.dll (..\..\..\cache\nuget\microsoft.diagnostics.tracing.traceevent\2.0.49\lib\net45\OSExtensions.dll))[Hidden NONE ]
         ProjectFileImpl(Path : ReflectionExtensions.cs)[[.NETCoreApp,Version=v3.1: Compile] [.NETFramework,Version=v3.5: Compile] [.NETFramework,Version=v4.6.1: Compile] ]
         Folder [Name:Serialization]
@@ -1930,23 +1930,6 @@ Project [Name:Tests, GUID:6ee90c64-2cf1-4f95-8011-744d6e3fa819]
           TraceReloggerLib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/net45/TraceReloggerLib.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
           Microsoft.CodeAnalysis.Analyzers, Roslyn Analyzer
           Microsoft.CodeAnalysis.CSharp.Analyzers, Roslyn Analyzer
-    Target framework: .NETFramework,Version=v3.5
-        Referenced projects:
-          Lifetimes (Lifetimes) [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-        Referenced assemblies:
-          AsyncBridge.Net35, Version=0.0.0.0, Culture=neutral, PublicKeyToken=b3b1c0202c0d6a87 (/data/cache/nuget/asyncbridge.net35/0.2.0/lib/net35-Client/AsyncBridge.Net35.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/microsoft.testplatform.objectmodel/11.0.0/lib/net35/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/mscorlib.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          nunit.framework, Version=3.12.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb (/data/cache/nuget/nunit/3.12.0/lib/net35/nunit.framework.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Core.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Data.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Drawing.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Runtime.Serialization.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Threading, Version=1.0.2856.102, Culture=neutral, PublicKeyToken=31bf3856ad364e35 (/data/cache/nuget/taskparallellibrary/1.0.2856/lib/Net35/System.Threading.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.Linq.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
-          TeamCity.ServiceMessages, Version=3.0.12.77, Culture=neutral, PublicKeyToken=620ded7f0cf61090 (/data/cache/nuget/teamcity.servicemessages/3.0.12/lib/net35/TeamCity.ServiceMessages.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
     Target framework: .NETCoreApp,Version=v3.1
         Referenced projects:
           Lifetimes (Lifetimes) [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
@@ -2118,6 +2101,23 @@ Project [Name:Tests, GUID:6ee90c64-2cf1-4f95-8011-744d6e3fa819]
           TeamCity.ServiceMessages, Version=3.0.12.77, Culture=neutral, PublicKeyToken=620ded7f0cf61090 (/data/cache/nuget/teamcity.servicemessages/3.0.12/lib/netcoreapp2.0/TeamCity.ServiceMessages.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
           testhost, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/microsoft.testplatform.testhost/15.9.0/lib/netstandard1.5/testhost.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
           WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 (/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/WindowsBase.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+    Target framework: .NETFramework,Version=v3.5
+        Referenced projects:
+          Lifetimes (Lifetimes) [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+        Referenced assemblies:
+          AsyncBridge.Net35, Version=0.0.0.0, Culture=neutral, PublicKeyToken=b3b1c0202c0d6a87 (/data/cache/nuget/asyncbridge.net35/0.2.0/lib/net35-Client/AsyncBridge.Net35.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/microsoft.testplatform.objectmodel/11.0.0/lib/net35/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/mscorlib.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          nunit.framework, Version=3.12.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb (/data/cache/nuget/nunit/3.12.0/lib/net35/nunit.framework.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Core.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Data.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Drawing.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Runtime.Serialization.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Threading, Version=1.0.2856.102, Culture=neutral, PublicKeyToken=31bf3856ad364e35 (/data/cache/nuget/taskparallellibrary/1.0.2856/lib/Net35/System.Threading.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 (/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.Linq.dll), Resolved [CopyLocal=False, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=False, IsOutputAssembly=False, ReferenceOutputAssembly=True]
+          TeamCity.ServiceMessages, Version=3.0.12.77, Culture=neutral, PublicKeyToken=620ded7f0cf61090 (/data/cache/nuget/teamcity.servicemessages/3.0.12/lib/net35/TeamCity.ServiceMessages.dll), Resolved [CopyLocal=True, AutoReferenced=False, AliasList=, EmbedInteropTypes=False, IsHidden=True, IsOutputAssembly=False, ReferenceOutputAssembly=True]
     Project [Name:Test.RdFramework, GUID:807db56b-8e3c-47f1-9db5-2b9042c6be83]
       CSharp Properties:
         Active configuration for '.NETCoreApp,Version=v3.1':
@@ -3187,17 +3187,17 @@ Assembly: 'System, Version=4', PlatformId: '.NETStandard,Version=v2.0', Files Co
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.CodeDom, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation: [Unresolved] in Universal contexts
 
-Assembly: 'System, Version=4', PlatformId: '', Files Count:1
-	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.dll
-  Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
 Assembly: 'System, Version=2', PlatformId: '', Files Count:1
 	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.dll
   Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
+Assembly: 'System, Version=4', PlatformId: '', Files Count:1
+	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.dll
+  Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.dll
@@ -3440,6 +3440,13 @@ Assembly: 'System.Core, Version=4', PlatformId: '.NETStandard,Version=v2.0', Fil
 	/data/cache/nuget/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Core.dll
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
+Assembly: 'System.Core, Version=3', PlatformId: '', Files Count:1
+	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Core.dll
+  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
 Assembly: 'System.Core, Version=4', PlatformId: '', Files Count:1
 	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Core.dll
   Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
@@ -3447,13 +3454,6 @@ Assembly: 'System.Core, Version=4', PlatformId: '', Files Count:1
   Reference target AssemblyName: System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
-Assembly: 'System.Core, Version=3', PlatformId: '', Files Count:1
-	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Core.dll
-  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System.Core, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.Core.dll
@@ -3480,6 +3480,16 @@ Assembly: 'System.Data, Version=4', PlatformId: '.NETStandard,Version=v2.0', Fil
 	/data/cache/nuget/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Data.dll
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
+Assembly: 'System.Data, Version=2', PlatformId: '', Files Count:1
+	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Data.dll
+  Reference target AssemblyName: Microsoft.VisualC, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
 Assembly: 'System.Data, Version=4', PlatformId: '', Files Count:1
 	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Data.dll
   Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
@@ -3490,16 +3500,6 @@ Assembly: 'System.Data, Version=4', PlatformId: '', Files Count:1
   Reference target AssemblyName: System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
-Assembly: 'System.Data, Version=2', PlatformId: '', Files Count:1
-	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Data.dll
-  Reference target AssemblyName: Microsoft.VisualC, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System.Data, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.Data.dll
@@ -3662,16 +3662,16 @@ Assembly: 'System.Drawing, Version=4', PlatformId: '.NETStandard,Version=v2.0', 
 	/data/cache/nuget/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Drawing.dll
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
+Assembly: 'System.Drawing, Version=2', PlatformId: '', Files Count:1
+	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Drawing.dll
+  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
 Assembly: 'System.Drawing, Version=4', PlatformId: '', Files Count:1
 	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Drawing.dll
   Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-
-Assembly: 'System.Drawing, Version=2', PlatformId: '', Files Count:1
-	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Drawing.dll
-  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System.Drawing, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.Drawing.dll
@@ -4493,6 +4493,14 @@ Assembly: 'System.Runtime.Serialization, Version=4', PlatformId: '.NETStandard,V
 	/data/cache/nuget/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Serialization.dll
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
+Assembly: 'System.Runtime.Serialization, Version=3', PlatformId: '', Files Count:1
+	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Runtime.Serialization.dll
+  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation: [Unresolved] in Universal contexts
+  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
 Assembly: 'System.Runtime.Serialization, Version=4', PlatformId: '', Files Count:1
 	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Runtime.Serialization.dll
   Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
@@ -4501,14 +4509,6 @@ Assembly: 'System.Runtime.Serialization, Version=4', PlatformId: '', Files Count
   Reference target AssemblyName: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.ServiceModel.Internals, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, HintLocation: [Unresolved] in Universal contexts
   Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
-Assembly: 'System.Runtime.Serialization, Version=3', PlatformId: '', Files Count:1
-	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Runtime.Serialization.dll
-  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation: [Unresolved] in Universal contexts
-  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System.Runtime.Serialization, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.Runtime.Serialization.dll
@@ -4967,19 +4967,19 @@ Assembly: 'System.Xml, Version=4', PlatformId: '.NETStandard,Version=v2.0', File
 	/data/cache/nuget/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.dll
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
-Assembly: 'System.Xml, Version=4', PlatformId: '', Files Count:1
-	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.dll
-  Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
 Assembly: 'System.Xml, Version=2', PlatformId: '', Files Count:1
 	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.dll
   Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
+Assembly: 'System.Xml, Version=4', PlatformId: '', Files Count:1
+	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.dll
+  Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System.Xml, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.Xml.dll
@@ -4992,6 +4992,13 @@ Assembly: 'System.Xml.Linq, Version=4', PlatformId: '.NETStandard,Version=v2.0',
 	/data/cache/nuget/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.Linq.dll
   Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
+Assembly: 'System.Xml.Linq, Version=3', PlatformId: '', Files Count:1
+	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.Linq.dll
+  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+
 Assembly: 'System.Xml.Linq, Version=4', PlatformId: '', Files Count:1
 	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/System.Xml.Linq.dll
   Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
@@ -4999,13 +5006,6 @@ Assembly: 'System.Xml.Linq, Version=4', PlatformId: '', Files Count:1
   Reference target AssemblyName: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
-Assembly: 'System.Xml.Linq, Version=3', PlatformId: '', Files Count:1
-	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/System.Xml.Linq.dll
-  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'System.Xml.Linq, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/System.Xml.Linq.dll
@@ -5124,11 +5124,6 @@ Assembly: 'TeamCity.ServiceMessages, Version=3', PlatformId: '.NETFramework,Vers
   Reference target AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
-Assembly: 'TeamCity.ServiceMessages, Version=3', PlatformId: '', Files Count:1
-	/data/cache/nuget/teamcity.servicemessages/3.0.12/lib/net35/TeamCity.ServiceMessages.dll
-  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-  Reference target AssemblyName: System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
 Assembly: 'TeamCity.ServiceMessages, Version=3', PlatformId: '.NETCoreApp,Version=v2.0', Files Count:1
 	/data/cache/nuget/teamcity.servicemessages/3.0.12/lib/netcoreapp2.0/TeamCity.ServiceMessages.dll
   Reference target AssemblyName: System.Collections, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
@@ -5138,6 +5133,11 @@ Assembly: 'TeamCity.ServiceMessages, Version=3', PlatformId: '.NETCoreApp,Versio
   Reference target AssemblyName: System.Runtime, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Runtime.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Threading, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+
+Assembly: 'TeamCity.ServiceMessages, Version=3', PlatformId: '', Files Count:1
+	/data/cache/nuget/teamcity.servicemessages/3.0.12/lib/net35/TeamCity.ServiceMessages.dll
+  Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
+  Reference target AssemblyName: System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
 
 Assembly: 'TraceReloggerLib, Version=0', PlatformId: '', Files Count:1
 	/data/cache/nuget/microsoft.diagnostics.tracing.traceevent/2.0.49/lib/net45/TraceReloggerLib.dll
@@ -5170,11 +5170,11 @@ Assembly: 'mscorlib, Version=4', PlatformId: '.NETStandard,Version=v2.0', Files 
   Reference target AssemblyName: System.Security.AccessControl, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Security.Principal.Windows, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
 
-Assembly: 'mscorlib, Version=4', PlatformId: '', Files Count:1
-	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/mscorlib.dll
-
 Assembly: 'mscorlib, Version=2', PlatformId: '', Files Count:1
 	/data/cache/nuget/jetbrains.netframework.referenceassemblies.net35/1.0.1/build/.NETFramework/v3.5/mscorlib.dll
+
+Assembly: 'mscorlib, Version=4', PlatformId: '', Files Count:1
+	/data/cache/nuget/microsoft.netframework.referenceassemblies.net461/1.0.2/build/.NETFramework/v4.6.1/mscorlib.dll
 
 Assembly: 'mscorlib, Version=4', PlatformId: '.NETCoreApp,Version=v3.1', Files Count:1
 	/data/cache/nuget/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/mscorlib.dll
@@ -5424,6 +5424,11 @@ Assembly: 'nunit.framework, Version=3', PlatformId: '.NETFramework,Version=v4.5'
   Reference target AssemblyName: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
   Reference target AssemblyName: WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, HintLocation:  in Universal contexts
 
+Assembly: 'nunit.framework, Version=3', PlatformId: '.NETStandard,Version=v2.0', Files Count:1
+	/data/cache/nuget/nunit/3.12.0/lib/netstandard2.0/nunit.framework.dll
+  Reference target AssemblyName: Microsoft.Win32.Registry, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
+  Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
+
 Assembly: 'nunit.framework, Version=3', PlatformId: '', Files Count:1
 	/data/cache/nuget/nunit/3.12.0/lib/net35/nunit.framework.dll
   Reference target AssemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
@@ -5432,11 +5437,6 @@ Assembly: 'nunit.framework, Version=3', PlatformId: '', Files Count:1
   Reference target AssemblyName: System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
   Reference target AssemblyName: System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation: [Unresolved] in Universal contexts
   Reference target AssemblyName: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation:  in Universal contexts
-
-Assembly: 'nunit.framework, Version=3', PlatformId: '.NETStandard,Version=v2.0', Files Count:1
-	/data/cache/nuget/nunit/3.12.0/lib/netstandard2.0/nunit.framework.dll
-  Reference target AssemblyName: Microsoft.Win32.Registry, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation:  in Universal contexts
-  Reference target AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation:  in Universal contexts
 
 Assembly: 'testhost, Version=15', PlatformId: '.NETStandard,Version=v1.5', Files Count:1
 	/data/cache/nuget/microsoft.testplatform.testhost/15.9.0/lib/netstandard1.5/testhost.dll
