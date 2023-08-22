@@ -1,1 +1,187 @@
-{"version":"3","listProblem":[]}
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Rider toolset and environment errors",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "[NU1605] Warning As Error: Detected package downgrade: Microsoft.NETFramework.ReferenceAssemblies.net461 from 1.0.3 to 1.0.2. Reference the package directly from the project to select a different version. JetBrains.RdFramework.Reflection -> Microsoft.NETFramework.ReferenceAssemblies 1.0.3 -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.3) JetBrains.RdFramework.Reflection -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.2) at (0:0) Target: ResolvePackageAssets Task: ResolvePackageAssets",
+  "detailsInfo": "Reports toolset and environment errors detected by Rider.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "RdFramework.Reflection/RdFramework.Reflection.csproj",
+      "language": "",
+      "line": 0,
+      "offset": 0,
+      "length": 0,
+      "code": {
+        "startLine": 0,
+        "length": 0,
+        "offset": 0,
+        "surroundingCode": ""
+      }
+    }
+  ],
+  "attributes": {
+    "module": "",
+    "inspectionName": "RiderSolutionErrorsInspection"
+  },
+  "hash": "1e6bb9ab59dffbc28168630ca65041b902caa253a53fb69f76ec1ddb7efa804d"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Rider toolset and environment errors",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "[NU1605] Warning As Error: Detected package downgrade: Microsoft.NETFramework.ReferenceAssemblies.net461 from 1.0.3 to 1.0.2. Reference the package directly from the project to select a different version. JetBrains.RdFramework -> Microsoft.NETFramework.ReferenceAssemblies 1.0.3 -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.3) JetBrains.RdFramework -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.2) at (0:0) Target: ResolvePackageAssets Task: ResolvePackageAssets",
+  "detailsInfo": "Reports toolset and environment errors detected by Rider.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "RdFramework/RdFramework.csproj",
+      "language": "",
+      "line": 0,
+      "offset": 0,
+      "length": 0,
+      "code": {
+        "startLine": 0,
+        "length": 0,
+        "offset": 0,
+        "surroundingCode": ""
+      }
+    }
+  ],
+  "attributes": {
+    "module": "",
+    "inspectionName": "RiderSolutionErrorsInspection"
+  },
+  "hash": "438e63041dc7bf9886c18dab859c087a2d92f8bdffc25d2485d23c46239f2c3a"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Rider toolset and environment errors",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "[NU1605] Warning As Error: Detected package downgrade: Microsoft.NETFramework.ReferenceAssemblies.net461 from 1.0.3 to 1.0.2. Reference the package directly from the project to select a different version. Test.RdFramework -> Microsoft.NETFramework.ReferenceAssemblies 1.0.3 -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.3) Test.RdFramework -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.2) at (0:0) Target: ResolvePackageAssets Task: ResolvePackageAssets",
+  "detailsInfo": "Reports toolset and environment errors detected by Rider.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "Test.RdFramework/Test.RdFramework.csproj",
+      "language": "",
+      "line": 0,
+      "offset": 0,
+      "length": 0,
+      "code": {
+        "startLine": 0,
+        "length": 0,
+        "offset": 0,
+        "surroundingCode": ""
+      }
+    }
+  ],
+  "attributes": {
+    "module": "",
+    "inspectionName": "RiderSolutionErrorsInspection"
+  },
+  "hash": "4d97bc42475b114ae4caba105cd67086c0134c729e34258274e3d4cbb437a78f"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Rider toolset and environment errors",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "[NU1605] Warning As Error: Detected package downgrade: Microsoft.NETFramework.ReferenceAssemblies.net461 from 1.0.3 to 1.0.2. Reference the package directly from the project to select a different version. Test.Lifetimes -> Microsoft.NETFramework.ReferenceAssemblies 1.0.3 -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.3) Test.Lifetimes -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.2) at (0:0) Target: ResolvePackageAssets Task: ResolvePackageAssets",
+  "detailsInfo": "Reports toolset and environment errors detected by Rider.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "Test.Lifetimes/Test.Lifetimes.csproj",
+      "language": "",
+      "line": 0,
+      "offset": 0,
+      "length": 0,
+      "code": {
+        "startLine": 0,
+        "length": 0,
+        "offset": 0,
+        "surroundingCode": ""
+      }
+    }
+  ],
+  "attributes": {
+    "module": "",
+    "inspectionName": "RiderSolutionErrorsInspection"
+  },
+  "hash": "721f64dae075f0aa55af7aa6df92aff6017f1e930a4d6d788317f938961e82a0"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Rider toolset and environment errors",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "[NU1605] Warning As Error: Detected package downgrade: Microsoft.NETFramework.ReferenceAssemblies.net461 from 1.0.3 to 1.0.2. Reference the package directly from the project to select a different version. Test.Reflection.App -> Microsoft.NETFramework.ReferenceAssemblies 1.0.3 -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.3) Test.Reflection.App -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.2) at (0:0) Target: ResolvePackageAssets Task: ResolvePackageAssets",
+  "detailsInfo": "Reports toolset and environment errors detected by Rider.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "Test.Reflection.App/Test.Reflection.App.csproj",
+      "language": "",
+      "line": 0,
+      "offset": 0,
+      "length": 0,
+      "code": {
+        "startLine": 0,
+        "length": 0,
+        "offset": 0,
+        "surroundingCode": ""
+      }
+    }
+  ],
+  "attributes": {
+    "module": "",
+    "inspectionName": "RiderSolutionErrorsInspection"
+  },
+  "hash": "8e95f157e2ebc7c221ec0af93cf760845d728344f3808245076b7892f3181378"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Rider toolset and environment errors",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "[NU1605] Warning As Error: Detected package downgrade: Microsoft.NETFramework.ReferenceAssemblies.net461 from 1.0.3 to 1.0.2. Reference the package directly from the project to select a different version. JetBrains.Lifetimes -> Microsoft.NETFramework.ReferenceAssemblies 1.0.3 -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.3) JetBrains.Lifetimes -> Microsoft.NETFramework.ReferenceAssemblies.net461 (>= 1.0.2) at (0:0) Target: ResolvePackageAssets Task: ResolvePackageAssets",
+  "detailsInfo": "Reports toolset and environment errors detected by Rider.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "Lifetimes/Lifetimes.csproj",
+      "language": "",
+      "line": 0,
+      "offset": 0,
+      "length": 0,
+      "code": {
+        "startLine": 0,
+        "length": 0,
+        "offset": 0,
+        "surroundingCode": ""
+      }
+    }
+  ],
+  "attributes": {
+    "module": "",
+    "inspectionName": "RiderSolutionErrorsInspection"
+  },
+  "hash": "c8a0fdd347c325d749b50983371349e2ad5752f3db63ef28adbfc03a9ba7d9c3"
+}]}

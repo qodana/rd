@@ -708,9 +708,9 @@
         },
         {
           "shortName": "AllUnderscoreLocalParameterName",
-          "displayName": "Local parameter name may confuse",
+          "displayName": "Potentially misleading parameter name in lambda or local function",
           "enabled": true,
-          "description": "The name consisting of '_' for the local parameter that has usages can be misleading, because such names are typically reserved for parameters without usages."
+          "description": "A name that consists of the '_' characters can be misleading for parameters that have usages, because such names are typically reserved for unused parameters"
         },
         {
           "shortName": "MergeCastWithTypeCheck",
@@ -12032,7 +12032,7 @@
         {
           "shortName": "ReassignedToPlainText",
           "displayName": "Reassigned to plain text",
-          "enabled": true,
+          "enabled": false,
           "description": "Reports files that were explicitly re-assigned to Plain Text File Type. This association is unnecessary because the platform auto-detects text files by content automatically.\n\nYou can dismiss this warning by removing the file type association\nin **Settings \\| Editor \\| File Types \\| Text**."
         },
         {
@@ -17965,13 +17965,13 @@
       ]
     },
     {
-      "name": "Test Code Coverage",
+      "name": "Code Coverage",
       "inspections": [
         {
           "shortName": "JsCoverageInspection",
           "displayName": "Check JavaScript and TypeScript source code coverage",
           "enabled": false,
-          "description": "Reports method, class and file's test code coverage, that fails below the threshold."
+          "description": "Reports methods, classes and files whose coverage is below a certain threshold."
         }
       ]
     },
@@ -18187,6 +18187,12 @@
           "description": "Creating a managed type is not supported"
         },
         {
+          "shortName": "Unity.BurstStringFormatInvalidArgument",
+          "displayName": "Burst: String.Format(format, ...) invalid argument type",
+          "enabled": true,
+          "description": "Burst: String.Format(format, ...) invalid argument type"
+        },
+        {
           "shortName": "Unity.BurstFunctionSignatureContainsManagedTypes",
           "displayName": "Function signature cannot contain managed types",
           "enabled": true,
@@ -18241,16 +18247,34 @@
           "description": "Typeof is prohibited in Burst"
         },
         {
+          "shortName": "Unity.BurstAccessingManagedIndexer",
+          "displayName": "Accessing managed indexers is not supported",
+          "enabled": true,
+          "description": "Accessing managed indexers is not supported"
+        },
+        {
+          "shortName": "Unity.BurstLocalStringVariableDeclaration",
+          "displayName": "Burst: The variable resolves to System.String, which may result in invalid managed method calls at the Burst-compiled call stack",
+          "enabled": true,
+          "description": "Burst: The variable resolves to System.String, which may result in invalid managed method calls at the Burst-compiled call stack"
+        },
+        {
           "shortName": "Unity.BurstSharedStaticCreate",
           "displayName": "Some SharedStatic`1.GetOrCreate overloads cause compiler errors",
           "enabled": true,
           "description": "Some SharedStatic\\`1.GetOrCreate overloads cause compiler errors"
         },
         {
-          "shortName": "Unity.BurstDebugLogInvalidArgument",
-          "displayName": "Debug logging functions accepts only strings",
+          "shortName": "Unity.BurstStringFormatInvalidFormat",
+          "displayName": "String.Format(format, ...) only accepts string literals and const strings",
           "enabled": true,
-          "description": "Debug logging functions accepts only strings"
+          "description": "String.Format(format, ...) only accepts string literals and const strings"
+        },
+        {
+          "shortName": "Unity.BurstDebugLogInvalidArgument",
+          "displayName": "Debug logging functions only accept strings",
+          "enabled": true,
+          "description": "Debug logging functions only accept strings"
         }
       ]
     },
