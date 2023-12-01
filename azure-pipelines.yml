@@ -1,15 +1,18 @@
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
-
 trigger:
   - main
 
 pr:
   - main
 
+strategy:
+  matrix:
+    linux:
+      vmImage: ubuntu-latest
+    windows:
+      vmImage: windows-latest
+
 pool:
-  vmImage: ubuntu-latest
+  vmImage: $(vmImage)
 
 steps:
   - task: Cache@2  # Not required, but Qodana will open projects with cache faster.
@@ -23,4 +26,4 @@ steps:
     inputs:
       args: --ide,QDNET
     env:
-      QODANA_LICENSE_ONLY_TOKEN: $(QODANA_TOKEN)
+      QODANA_TOKEN: $(QODANA_TOKEN_TESTS)
