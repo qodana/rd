@@ -9,24 +9,17 @@ on:
       - 'releases/*'
 
 jobs:
-  qodana:
-    runs-on: ubuntu-latest
+  qodana-windows:
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
       - name: 'Qodana Scan'
-        uses: JetBrains/qodana-action@main
+        uses: JetBrains/qodana-action@latest
         env:
-          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
-
-      - name: 'Deploy to GitHub Pages'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ${{ runner.temp }}/qodana/results/report
-          destination_dir: ./
+          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN_TESTS }}
 
       - name: 'Upload artifacts'
         uses: actions/upload-artifact@v3
