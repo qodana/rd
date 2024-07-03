@@ -22,7 +22,7 @@ steps:
       restoreKeys: |
         "$(Build.Repository.Name)" | "$(Build.SourceBranchName)"
         "$(Build.Repository.Name)"
-  - task: QodanaScan@2023
+  - task: QodanaScan@2024
     inputs:
       args: --ide,QDNET
     env:
