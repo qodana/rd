@@ -27,3 +27,4 @@ steps:
       args: --ide,QDNET
     env:
       QODANA_TOKEN: $(QODANA_TOKEN_TESTS)
+      AGENT_USE_NODE10: true
