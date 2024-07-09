@@ -18,6 +18,8 @@ jobs:
 
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@latest
+        with:
+          args: --ide,QDNET
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN_TESTS }}
 
